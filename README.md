@@ -1,6 +1,5 @@
 - **Sherlock Profile** profile: [Elawdie](https://audits.sherlock.xyz/watson/Elawdie)
-- **Codehawks** profile: [Elooo](https://profiles.cyfrin.io/u/elooo)
-
+  
 # Audits
 
 |Contest|Description|Findings|Report|Ranking|
