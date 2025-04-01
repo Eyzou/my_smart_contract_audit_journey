@@ -8,12 +8,5 @@
 
 |Contest|Description|Findings|Report|Ranking|
 |-------|-----------|--------|------|------|
-|Rova|Token|1M|[📄](https://audits.sherlock.xyz/contests/498/report)|[****]|
-
-# Private Engagements
-
-|Project|Description|Findings|Report|
-|-------|-----------|--------|------|
-|Private|Private|Private|[📄](X)|
-
-
+|Rova|Token|1M|[📄](https://audits.sherlock.xyz/contests/498/report)|[#3]|
+|Yieldoor|Yielding|1M|[📄](https://audits.sherlock.xyz/contests/791/report)|[#28]|
